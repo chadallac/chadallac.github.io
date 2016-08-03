@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Supercharging failing fast in the IT World
+      title: Supercharging failing fast in life
 
-description: Chad Riedel's Github learning safety zone for dumb questions.
+description: Chad Riedel's Github learning safety zone for dumb questions
 author:
   name: Chad Riedel
   email: Chad.riedel@gmail.com
@@ -24,7 +24,7 @@ author:
   twitter: vReckoning
 #  pinterest: asd123
   linkedin: chad-riedel
-  bio: Running in place will never give the same results as running from a lion.
+  bio: Running in place will never give the same results as running from a lion
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
