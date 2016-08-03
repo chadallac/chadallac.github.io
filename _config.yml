@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll1
+title: Chad Riedel
 
 defaults:
   -
@@ -16,12 +16,12 @@ defaults:
     values:
       title: Supercharging failing fast in the IT World
 
-description: Stylish Jekyll Theme
+description: Chad Riedel's Github learning safety zone for dumb questions.
 author:
   name: Chad Riedel
   email: Chad.riedel@gmail.com
   github: chadallac
-  twitter: dbtek
+  twitter: vReckoning
 #  pinterest: asd123
   linkedin: chad-riedel
   bio: Running in place will never give the same results as running from a lion.
