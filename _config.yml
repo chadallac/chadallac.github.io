@@ -7,24 +7,24 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: dbyll1
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: dbyll2
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  name: Chad Riedel
+  email: Chad.riedel@gmail.com
+  github: https://github.com/chadallac
   twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+#  pinterest: asd123
+  linkedin: www.linkedin.com/in/chad-riedel
+  bio: Supercharging failing fast in the IT World
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
